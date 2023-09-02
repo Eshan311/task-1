@@ -1,0 +1,25 @@
+.wrapper {
+    height: 50px;
+}
+
+.mainPlus {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button {
+    background-color: black;
+    text-decoration: none;
+    color: white;
+}
+
+.counterDiv {
+    display: inline-table;
+    padding-inline: 5px;
+}
